@@ -1,0 +1,23 @@
+source
+participant-id
+timestamp
+total-steps
+total-distance
+tracker-distance
+logged-activities-distance
+very-active-distance
+moderately-active-distance
+light-active-distance
+sedentary-active-distance
+very-active-minutes
+fairly-active-minutes
+lightly-active-minutes
+sedentary-minutes
+calories
+
+First 2 rows:
+   source  ...  calories
+0  fitbit  ...      1819
+1  fitbit  ...      2154
+
+[2 rows x 16 columns]
